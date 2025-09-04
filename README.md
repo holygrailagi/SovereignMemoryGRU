@@ -1,3 +1,4 @@
+A single experiment. Plenty more to come from our team here. 
 Choose a name that’s **memorable, descriptive, and slightly provocative**—something that makes people curious and gives them a hint at the power inside. Here are a few suggestions:
 
 ### Repo Name: `SovereignMemoryGRU`
