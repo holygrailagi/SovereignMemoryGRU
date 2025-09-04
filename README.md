@@ -1,15 +1,4 @@
-A single experiment. Plenty more to come from our team here. 
-Choose a name that’s **memorable, descriptive, and slightly provocative**—something that makes people curious and gives them a hint at the power inside. Here are a few suggestions:
-
-### Repo Name: `SovereignMemoryGRU`
-
-**Why?**
-- **Sovereign**: Implies independence and control over one’s own data.
-- **Memory**: Clearly states that this is about memory.
-- **GRU**: Specifies the technical core of the project.
-
-### Full README.md
-
+A single experiment. Plenty more to come from our team here.
 ```markdown
 # SovereignMemoryGRU
 
